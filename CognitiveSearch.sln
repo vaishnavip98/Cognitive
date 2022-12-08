@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CognitiveSearch", "CognitiveSearch\CognitiveSearch.csproj", "{FF094998-40AE-488F-A201-C9FF32FA1764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspAssignment", "AspAssignment\AspAssignment.csproj", "{4C174A5B-1B60-4FB6-9E7E-C074CB5DFFC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF094998-40AE-488F-A201-C9FF32FA1764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF094998-40AE-488F-A201-C9FF32FA1764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF094998-40AE-488F-A201-C9FF32FA1764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF094998-40AE-488F-A201-C9FF32FA1764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C174A5B-1B60-4FB6-9E7E-C074CB5DFFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C174A5B-1B60-4FB6-9E7E-C074CB5DFFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C174A5B-1B60-4FB6-9E7E-C074CB5DFFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C174A5B-1B60-4FB6-9E7E-C074CB5DFFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EB7AD4A-F1E9-4777-A2AC-653C99598736}
+	EndGlobalSection
+EndGlobal
